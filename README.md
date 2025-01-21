@@ -12,6 +12,10 @@
 
 # Wiring Diagram
   ![HEART-RATE-DIAGRAM](HEART-RATE-DIAGRAM.png)
+  
+# Wiring Diagram with Bread Board
+  ![Heart-Bread-Board](Heart-Bread-Board.png)
+  
 
 # Code
 ```
