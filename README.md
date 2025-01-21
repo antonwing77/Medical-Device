@@ -28,7 +28,7 @@
 ![HEART-RATE-DIAGRAM](HEART-RATE-DIAGRAM.png)
   
 # Wiring Diagram with Bread Board
-## For this wiring congfiguration all 5V connection lead to one row on the bread board and all ground (GND) connections lead to another row on the bread board.
+## For this wiring congfiguration all 5V connection lead to one row on the bread board and all ground (GND) connections lead to different row on the bread board.
 
 ![Heart-Bread-Board](Heart-Bread-Board.png)
   
