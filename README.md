@@ -24,10 +24,13 @@
 * GND (left node) to GND
 * VOUT (middle node) to A0
 * 5v (right node to 5V
-  ![HEART-RATE-DIAGRAM](HEART-RATE-DIAGRAM.png)
+
+![HEART-RATE-DIAGRAM](HEART-RATE-DIAGRAM.png)
   
 # Wiring Diagram with Bread Board
-  ![Heart-Bread-Board](Heart-Bread-Board.png)
+## For this wiring congfiguration all 5V connection lead to one row on the bread board and all ground (GND) connections lead to another row on the bread board.
+
+![Heart-Bread-Board](Heart-Bread-Board.png)
   
 
 # Code
