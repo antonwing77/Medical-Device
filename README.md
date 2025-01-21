@@ -11,4 +11,4 @@
 * LCD Screen 16x2 with I2C
 
 # Wiring Diagram
-  ![HEART-RATE-DIAGRAM](Medical-Device/HEART-RATE-DIAGRAM.png)
+  ![HEART-RATE-DIAGRAM](HEART-RATE-DIAGRAM.png)
