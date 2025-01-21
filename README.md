@@ -11,6 +11,19 @@
 * LCD Screen 16x2 with I2C
 
 # Wiring Diagram
+## LCD Wiring
+* GND to GND
+* VCC to 5V
+* SDA to A4
+* SCL to A5
+## Temperature Sensor (LM35) Wiring
+* 5V (left node when facing the flat side) to 5V
+* VOUT (middle node) to A1
+* GND (right node) to GND
+## Pulse Sensor
+* GND (left node) to GND
+* VOUT (middle node) to A0
+* 5v (right node to 5V
   ![HEART-RATE-DIAGRAM](HEART-RATE-DIAGRAM.png)
   
 # Wiring Diagram with Bread Board
