@@ -1,4 +1,4 @@
-# Medical-Device
+# Medical Device
 
 ## In this project we are going to learn how to code and use arduinos by creating a medical device that can read your heart rate and check your temperature.
 
