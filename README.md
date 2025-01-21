@@ -14,7 +14,8 @@
   ![HEART-RATE-DIAGRAM](HEART-RATE-DIAGRAM.png)
 
 # Code
-  #define USE_ARDUINO_INTERRUPTS true
+'''
+#define USE_ARDUINO_INTERRUPTS true
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <PulseSensorPlayground.h>     // Includes the PulseSensorPlayground Library
@@ -75,3 +76,4 @@ void loop()
 
   
 }
+'''
